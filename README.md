@@ -8,6 +8,6 @@ You start the game with ```python game.py```
 
 The game runs with 60 frames per second. 
 
-I used a code sample for the basic structure of pygame from this site [http://programarcadegames.com/](http://programarcadegames.com/)
+Developer [https://ganeshmkavhar.000webhostapp.com/)
 The site contains a comprehensive introduction in Python and Pygame. In addition many many examples.
 
